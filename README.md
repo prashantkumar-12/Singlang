@@ -1,5 +1,6 @@
 # Singlang
 I developed this project using Tensorflow,cuda ,cnn, Python, Framework. For more details visit my linkedin : https://www.linkedin.com/in/prashant-kumar122/ 
+Many Packages i have not uploaded because the size limit exceeded by git hub but connect me on LinkedIn to get all the packages i have used .
 ## Steps
 <br />
 <b>Step 1.</b> Clone this repository
