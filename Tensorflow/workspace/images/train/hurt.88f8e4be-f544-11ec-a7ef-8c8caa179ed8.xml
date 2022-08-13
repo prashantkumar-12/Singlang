@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hurt</folder>
+	<filename>hurt.88f8e4be-f544-11ec-a7ef-8c8caa179ed8.jpg</filename>
+	<path>D:\TOD\TFODCourse\Tensorflow\workspace\images\collectedimages\hurt\hurt.88f8e4be-f544-11ec-a7ef-8c8caa179ed8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hurt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>313</ymin>
+			<xmax>505</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

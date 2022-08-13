@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>stop.15653a96-f546-11ec-9eeb-8c8caa179ed8.jpg</filename>
+	<path>D:\TOD\TFODCourse\Tensorflow\workspace\images\collectedimages\stop\stop.15653a96-f546-11ec-9eeb-8c8caa179ed8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>134</ymin>
+			<xmax>238</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

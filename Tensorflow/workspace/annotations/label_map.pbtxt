@@ -1,0 +1,36 @@
+item { 
+	name:'LiveLong'
+	id:1
+}
+item { 
+	name:'ThumbsUp'
+	id:2
+}
+item { 
+	name:'ThankYou'
+	id:3
+}
+item { 
+	name:'ThumbsDown'
+	id:4
+}
+item { 
+	name:'ILoveYou'
+	id:5
+}
+item { 
+	name:'Hurt'
+	id:6
+}
+item { 
+	name:'Stop'
+	id:7
+}
+item { 
+	name:'No'
+	id:8
+}
+item { 
+	name:'Yes'
+	id:9
+}
