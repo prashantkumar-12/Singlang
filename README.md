@@ -1,6 +1,9 @@
 # Singlang
 I developed this project using Tensorflow,cuda ,cnn, Python, Framework. For more details visit my linkedin : https://www.linkedin.com/in/prashant-kumar122/ 
 Many Packages i have not uploaded because the size limit exceeded by git hub but connect me on LinkedIn to get all the packages i have used .
+Look the error below
+![image](https://user-images.githubusercontent.com/66546133/184505803-610d4482-0f83-4300-9ae3-6c7cfcc8f13a.png)
+
 ## Steps
 <br />
 <b>Step 1.</b> Clone this repository
